@@ -1,2 +1,2 @@
 # Firebase
-responce from chatGPT for CRUD of Firebae
+responce from chatGPT for CRUD of Firebase
